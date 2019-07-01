@@ -29,7 +29,7 @@
 | Link | Description |
 |-------------|-------------|
 | [GCP-VM-Image-Harderning](https://github.com/sahanasj/ulta-gcp-image-hardening)<br> |  Build a custom image using Packer and CICD build for VM image using Jenkins on Google Cloud Platform |
-| [GCP-Container-Image-Harderning](https://github.com/sahanasj/ulta-gcp-docker-image-with-packer)<br> |  Build a custom Docker image  using Packer and CICD build for docker image using Jenkins on Google Cloud Platform |
+| [GCP-Container-Image-Harderning](https://github.com/sahanasj/ulta-gcp-docker-image-with-packer)<br> |  Build a custom Docker image using Packer and CICD build for docker image using Jenkins on Google Cloud Platform |
 
 <details>
   <summary>Proven History</summary>
@@ -46,6 +46,7 @@
 
 <details>
   <summary>Proven History</summary>
+  <p>Note: This image can be zoomed to see the content</p>
   <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Google%20Cloud%20Platform/GCP-Alibaba-VPN-Guide-work-1.PNG" height="600" width="850";>
    <br>
    <br>
@@ -56,7 +57,7 @@
 
 | Link | Description |
 |-------------|-------------|
-| [CIELO - Cloud Management Platform](https://github.com/ePlusPS/cielo-ui)<br> |  CIELO is IAAS Platform, which allows to provsion and manage either in Private or Public cloud  using centralized authentication mechanism and with complete multi-tenancy support |
+| [CIELO - Cloud Management Platform](https://github.com/ePlusPS/cielo-ui)<br> |  CIELO is IAAS Platform, which allows to provision and manages either in Private or Public cloud using centralized authentication mechanism and with complete multi-tenancy support |
 
 <details>
   <summary><b>Project Details</b></summary>
@@ -101,8 +102,26 @@ operations,REST API's and deploying through CI/CD process.
   <br>
    <br>
   <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/CIELO-Github-works.PNG">
+   <br>
+   <br>
+  <p>As part of testing on UI and API's using POSTMAN tool</p>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/CEILO-Portal-Test.PNG">
 </details>
 
+# ePlus - Hybrid cloud VPN service a public cloud connector | Enduser Portal using AngularJS 
+
+| Link | Description |
+|-------------|-------------|
+| [Neuron - Hybrid cloud VPN Service Connector](https://github.com/sahanasj/AWS-Cost-Usage-Optimization)<br> | Palo-Alto Networks; EndUser Portal Implementation with AngularJS Framework |
+
+<details>
+  <summary>Proven History</summary>
+  <p>Note: This image can be zoomed to see the content</p>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/Neuron-Frontend-using-AngularJS.png">
+<br>
+  <br>
+<img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/Neuron-Github-Records.PNG">
+</details>
 
 # ePlus - AWS Cost and Usage Billing Optimization
 | Link | Description |
@@ -113,6 +132,7 @@ operations,REST API's and deploying through CI/CD process.
   <summary>Proven History</summary>
   <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/AWS/ePlus%20AWS%20Account%20%20-%20Cost%20%26%20Usage%20Billing%20Report%20Optimization/AWS-Cost-Optimization.PNG">
 </details>
+
 
 # ePlus - Build CICD Pipeline - Jenkins, Gerrit Integration.
 | Link | Description |
