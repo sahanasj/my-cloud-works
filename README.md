@@ -33,8 +33,76 @@
 
 <details>
   <summary>Proven History</summary>
-  <img src="">
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Google%20Cloud%20Platform/GCP-Image-Hardening.PNG">
+  <br>
+  <br>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Google%20Cloud%20Platform/GCP-Image-Hardening-Mail.PNG">
 </details>
+
+# Customer Project: Google Cloud VPN Interop Guide for Alibaba Cloud VPN Gateway
+| Link | Description |
+|-------------|-------------|
+| [Google & Alibaba Cloud VPN Gateway Interop Guide](https://github.com/sahanasj/gcp-alibaba-vpn/blob/master/site-to-site.md)<br> | How to build site-to-site IPsec VPNs between Cloud VPN on Google Cloud Platform (GCP) and Alibaba Cloud VPN Gateway |
+
+<details>
+  <summary>Proven History</summary>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Google%20Cloud%20Platform/GCP-Alibaba-VPN-Guide-work-1.PNG" height="600" width="850";>
+   <br>
+   <br>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Google%20Cloud%20Platform/GCP-Alibaba-VPN.PNG">
+</details>
+
+# Onecloud Consulting - IAAS Cloud Management Platform (Product: CIELO)
+
+| Link | Description |
+|-------------|-------------|
+| [CIELO - Cloud Management Platform](https://github.com/ePlusPS/cielo-ui)<br> |  CIELO is IAAS Platform, which allows to provsion and manage either in Private or Public cloud  using centralized authentication mechanism and with complete multi-tenancy support |
+
+<details>
+  <summary><b>Project Details</b></summary>
+  <p>Cielo, a new umbrella offering from OneCloud Consulting, lets you provision and manage a Infrastructure as a Service (IaaS) either in private or public cloud using centralized authentication mechanism and with complete multi-tenancy support. It aims at simplifying the task of creating a virtual data center and assigning resources to it. Connecting your virtual private cloud to any public cloud and performing your Day 2 Operations with the advanced Networking policies can be easily accomplished by using this end user portal.</p>
+   <br>
+  <summary><b>My Roles and responsibility</b></summary>
+  <p><b>Role</b>: Software Development and Testing</p>
+  <br>
+  <p><b>Technologies</b>: Openstack, Django-Python, Rest API's, Frontend development, Hybrid clouds Integraion to UI(Private and public clouds)
+  <br>
+   <p><b>Duration/My contribution</b>: 1 and half year</p>
+   <br>
+    <b>Responsibility as a Fontend team member:</b>Customization of Openstack Horizon and building IAAS, Cloud management platform/tool based on the requirement with the good nowledge of Django(MVC framework) Python, JQuery, Javascript, AngularJs, Ajax, CRUD
+operations,REST API's and deploying through CI/CD process.
+   <br>
+  <p><b>Challenges:</b> Frontend UI Designs and Development with functional modules for <b>three interface portals</b>
+    <br>
+    * Integrate LDAP/AD into Cielo UI.
+     <br>
+    * Validate, Analyze, Incorporate the Backend Cloud API's to Cielo UI.
+     <br>
+    * Part of a team to help for many sucessfull Demo's to customers.
+     <br>
+    * Daily stand-up/sync up call with USA team members.
+     <br>
+    * Co-ordinating regularly with Testing Person to fix the bugs
+     <br>
+    <summary><b>Appreciation</b></summary>
+    * Recognized with good appreciation and bonus from management.
+     <br>
+    <summary><b>Thanksgiving</b></summary>
+    Thanks to Management and my Mentor/Lead to gave me a such wonderful learnings/guidelines and opputunity to enhnace my skills in many areas.
+</details>
+
+<details>
+  <summary>Proven History</summary> 
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/CIELO-Appreciation-2-edited.PNG">
+  <br>
+  <br>
+  <p>Note: This image can be zoomed to see the content</p>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/CIELO-Appreciation-3-edited.PNG">
+  <br>
+   <br>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/CIELO-Github-works.PNG">
+</details>
+
 
 # ePlus - AWS Cost and Usage Billing Optimization
 | Link | Description |
@@ -53,7 +121,14 @@
 
 <details>
   <summary>Proven History</summary>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Eplus%20-%20CICD%20Pipelines/CICD-Training-Content-Project.PNG">
+  <br>
+  <br>
   <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Eplus%20-%20CICD%20Pipelines/CICD-Gerrit-%26-Jekins-Labs.PNG">
+  <br>
+  <br>
+  <p><b>CICD - Jenkins, Gitlab,Artifactory Installation & Integration </b></p>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Eplus%20-%20CICD%20Pipelines/CICD-Jenkins-Gitlab-Artifactory.PNG">
 </details>
 
 
