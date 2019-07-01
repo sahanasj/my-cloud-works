@@ -6,7 +6,10 @@
 | Link | Description |
 |-------------|-------------|
 | [AWS-Learning](https://github.com/sahanasj/aws-learnings)<br> | AWS Associate Developer Certification Preparation Notes  |
-| [Certification](https://github.com/sahanasj/aws-learnings)<br> | My AWS Certified Associate Developer Certification  |
+| [AWS-Associate-Developer-Certification](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/SahanaJSJ-AWS-Associate-Developer-Cert.PNG)<br> | My AWS Certified Associate Developer Certification  |
+| [AWS_Course_completion_certificate](https://github.com/sahanasj/aws-learnings)<br> | Acloudguru - AWS Associate Developer Course Completion Certification  |
+| [AWS_Introduction_Praticionar_certification](https://github.com/sahanasj/aws-learnings)<br> | Acloudguru - AWS Cloud Praticioner Course Completion Certification |
+| [Cloud_computing_certification.](https://github.com/sahanasj/aws-learnings)<br> |  Acloudguru - AWS Cloud Computing Course Completion Certification  |
 
 # Customer Project: AWS - Cloud Custodian for AWS Cloud Governance (S3 Governance)
 
@@ -149,6 +152,26 @@ operations,REST API's and deploying through CI/CD process.
   <br>
   <p><b>CICD - Jenkins, Gitlab,Artifactory Installation & Integration </b></p>
   <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Eplus%20-%20CICD%20Pipelines/CICD-Jenkins-Gitlab-Artifactory.PNG">
+</details>
+
+
+# Onecloud Consulting - My Openstack Projects Contribution(2014 to 2016).
+| Link | Description |
+|-------------|-------------|
+| [Webinar-website-UI](https://github.com/sahanasj/Webinar-website-UI)<br> | Implemented A Simple Web UI for registration to online Openstack Webinars and send email designs to Admin and users related to Openstack registrations |
+| [My-Paper-Publication](http://researchpublish.com/journal/IJCSITR/Issue-3-July-2015-September-2015/30)<br> | OpenStack Deployment on Multi-Controllers Using DevStack and Integration of Keystone with Centralized LDAP Server |
+| [My-Openstack-Projects]<br> | OpenStack Projects which i were involved and handled with good hands on Design, Deployments(Manaul/Automated ways), Triple-o(Openstack on Oepnstack) deployments, L3 Migration with scale test, Openstack Horizon customization, hands pn Rest API's, Openstack & UCSO lab guides website implementation/design using Wordpress in Production, Active member of Openstack support team |
+
+<details>
+  <summary>Proven History</summary>
+  <p>Note: Image needs to be zoomed for more clarity</p>
+  <p>Implemented OneCloud's Openstack Webinar responsive Website with the necessary functionalities using PHP, HTML5,CCS3, JQuery and automation scripts to handle the email tasks(mailChimp tool).</p>
+  <br>
+    <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/Openstack-Projects.PNG">
+  <br>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/Openstack-UCSO-Website-MAil.png">
+  <br>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/CIELO%20%2B%20Neuron/Openstack-UCSO-Website-POD-Page.png"> 
 </details>
 
 
