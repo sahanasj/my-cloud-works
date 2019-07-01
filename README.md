@@ -1,11 +1,11 @@
 # My IT Cloud Learnings, Works & Contributions!
-**This is a base repository to keep all my IT works, learnings & contributions in a place!**
+**This is a base repository to keep all my IT works, learnings & contributions in a place!** 
 
 # My Journey with AWS Associate Developer Certification
 
 | Link | Description |
 |-------------|-------------|
-| [AWS-Learning](https://github.com/sahanasj/aws-learnings)<br> | AWS Associate Developer Certification Preparation Notes  |
+| [AWS-Learning-Paths](https://github.com/sahanasj/My-AWS-Learning)<br> | AWS Associate Developer Certification Preparation Notes  |
 | [AWS-Associate-Developer-Certification](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/SahanaJSJ-AWS-Associate-Developer-Cert.PNG)<br> | My AWS Certified Associate Developer Certification  |
 | [AWS_Course_completion_certificate](https://github.com/sahanasj/aws-learnings)<br> | Acloudguru - AWS Associate Developer Course Completion Certification  |
 | [AWS_Introduction_Praticionar_certification](https://github.com/sahanasj/aws-learnings)<br> | Acloudguru - AWS Cloud Praticioner Course Completion Certification |
@@ -160,7 +160,7 @@ operations,REST API's and deploying through CI/CD process.
 |-------------|-------------|
 | [Webinar-website-UI](https://github.com/sahanasj/Webinar-website-UI)<br> | Implemented A Simple Web UI for registration to online Openstack Webinars and send email designs to Admin and users related to Openstack registrations |
 | [My-Paper-Publication](http://researchpublish.com/journal/IJCSITR/Issue-3-July-2015-September-2015/30)<br> | OpenStack Deployment on Multi-Controllers Using DevStack and Integration of Keystone with Centralized LDAP Server |
-| [My-Openstack-Projects]<br> | OpenStack Projects which i were involved and handled with good hands on Design, Deployments(Manaul/Automated ways), Triple-o(Openstack on Oepnstack) deployments, L3 Migration with scale test, Openstack Horizon customization, hands pn Rest API's, Openstack & UCSO lab guides website implementation/design using Wordpress in Production, Active member of Openstack support team |
+| [My-Openstack-Projects]<br> | OpenStack Projects which i were involved and handled with good hands on Design, Deployments(Manaul/Automated ways), Triple-o(Openstack on Oepnstack) deployments, L3 Migration with scale test, Openstack Horizon customization, hands on Rest API's, Openstack & UCSO lab guides website implementation/design using Wordpress in Production, Active member of Openstack support team and recieved a <b>CAP AWARD and Bonus</b> |
 
 <details>
   <summary>Proven History</summary>
