@@ -5,11 +5,42 @@
 
 | Link | Description |
 |-------------|-------------|
-| [AWS-Learning-Paths](https://github.com/sahanasj/My-AWS-Learning)<br> | AWS Associate Developer Certification Preparation Notes  |
+| [AWS-Learning-Paths](https://github.com/sahanasj/aws-learnings)<br> | AWS Associate Developer Certification Preparation Notes  |
 | [AWS-Associate-Developer-Certification](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/SahanaJSJ-AWS-Associate-Developer-Cert.PNG)<br> | My AWS Certified Associate Developer Certification  |
-| [AWS_Course_completion_certificate](https://github.com/sahanasj/aws-learnings)<br> | Acloudguru - AWS Associate Developer Course Completion Certification  |
-| [AWS_Introduction_Praticionar_certification](https://github.com/sahanasj/aws-learnings)<br> | Acloudguru - AWS Cloud Praticioner Course Completion Certification |
-| [Cloud_computing_certification.](https://github.com/sahanasj/aws-learnings)<br> |  Acloudguru - AWS Cloud Computing Course Completion Certification  |
+| [AWS_Course_completion_certificate](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/AWS_Course_completion_certificate10I.pdf)<br> | Acloudguru - AWS Associate Developer Course Completion Certification  |
+| [AWS_Introduction_Praticionar_certification](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/AWS_Introduction_Praticionar_certification.pdf)<br> | Acloudguru - AWS Cloud Praticioner Course Completion Certification |
+| [Cloud_computing_certification.](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/Cloud_computing_certification.pdf)<br> |  Acloudguru - AWS Cloud Computing Course Completion Certification  |
+
+# TECHGIG Skills Pratices
+<details>
+  <summary>TECHGIG Skills Pratices</summary>
+  <b> Linux Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Linux-Certificate.pdf" height="500" width="850">
+  <br>
+  <br>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Linux-Certificate-1.pdf">
+  <br/>
+  <b>Cloud Computing Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Cloud-Computing-Certificate.pdf">
+  <br/>
+  <b>AWS Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/AWS-Certificate.pdf">
+  <br/>
+  <b>Devops Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Devops-Advanced-Certificate.pdf">
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Devops-Certificate.pdf">
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/1-Devops-Certificate.pdf">
+  <br/>
+  <b>Infosys Placement Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Certificate.pdf">
+</details>
 
 # Customer Project: AWS - Cloud Custodian for AWS Cloud Governance (S3 Governance)
 
