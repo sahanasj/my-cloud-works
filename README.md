@@ -11,37 +11,6 @@
 | [AWS_Introduction_Praticionar_certification](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/AWS_Introduction_Praticionar_certification.pdf)<br> | Acloudguru - AWS Cloud Praticioner Course Completion Certification |
 | [Cloud_computing_certification.](https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Certifications/Cloud_computing_certification.pdf)<br> |  Acloudguru - AWS Cloud Computing Course Completion Certification  |
 
-# TECHGIG Skills Pratices
-<details>
-  <summary>TECHGIG Skills Pratices</summary>
-  <b> Linux Test </b>
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Linux-Certificate.pdf" height="500" width="850">
-  <br>
-  <br>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Linux-Certificate-1.pdf">
-  <br/>
-  <b>Cloud Computing Test </b>
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Cloud-Computing-Certificate.pdf">
-  <br/>
-  <b>AWS Test </b>
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/AWS-Certificate.pdf">
-  <br/>
-  <b>Devops Test </b>
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Devops-Advanced-Certificate.pdf">
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Devops-Certificate.pdf">
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/1-Devops-Certificate.pdf">
-  <br/>
-  <b>Infosys Placement Test </b>
-  <br/>
-  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig%20Certs/Certificate.pdf">
-</details>
-
 # Customer Project: AWS - Cloud Custodian for AWS Cloud Governance (S3 Governance)
 
 | Link | Description |
@@ -206,6 +175,41 @@ operations,REST API's and deploying through CI/CD process.
 </details>
 
 
+# TECHGIG Skills Pratices
+<details>
+  <summary>Skill Test Certs</summary>
+  <b> Linux Test 1 </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Linux_Advanced_Test_2.PNG">
+  <br/>
+  <b> Linux Test 2 </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Linux_Advanced_Test_1.PNG">
+  <br/>
+  <b>Cloud Computing Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Cloud_Computing_Skill_Pratice.PNG">
+  <br/>
+  <b>AWS Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/AWS_Skill_Practice.PNG">
+  <br/>
+  <b>Devops Test 1</b>
+   <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Devops_Advanced_Test_1.PNG">
+  <br/>
+  <b>Devops Test 2</b>
+    <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Devops_Advanced_Test_2.PNG">
+  <br/>
+  <b>Devops Test 3</b>
+    <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Devops_Advanced_Test_3.PNG">
+  <br/>
+  <b>Infosys Placement Test </b>
+  <br/>
+  <img src="https://github.com/sahanasj/my-cloud-works/blob/master/My-Work-Efforts-Recognized/Techgig_Skils_Pratice_Certs/Infosys_Placement_Test.PNG">
+</details>
 
 
 
